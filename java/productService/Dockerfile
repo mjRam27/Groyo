@@ -1,4 +1,4 @@
-FROM openjdk:17
+FROM eclipse-temurin:17-jdk
 
 LABEL version="1.0", author="Pramukh Prakash"
 
